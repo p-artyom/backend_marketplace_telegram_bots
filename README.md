@@ -1,4 +1,4 @@
-# Backend маркетплейса _Telegram_ ботов
+# _Backend_ маркетплейса _Telegram_ ботов
 
 ## Описание
 
