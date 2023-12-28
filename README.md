@@ -9,7 +9,6 @@
 ## Технологии
 
 - Python 3.10.12;
-- PostgreSQL 14;
 - Django 4.2.5;
 - Django REST framework 3.14.0.
 
